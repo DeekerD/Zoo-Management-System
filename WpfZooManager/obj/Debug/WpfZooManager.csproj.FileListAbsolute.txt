@@ -1,0 +1,16 @@
+C:\Users\hp\Documents\C# Doings\WpfZooManager\WpfZooManager\bin\Debug\WpfZooManager.exe.config
+C:\Users\hp\Documents\C# Doings\WpfZooManager\WpfZooManager\bin\Debug\WpfZooManager.exe
+C:\Users\hp\Documents\C# Doings\WpfZooManager\WpfZooManager\bin\Debug\WpfZooManager.pdb
+C:\Users\hp\Documents\C# Doings\WpfZooManager\WpfZooManager\obj\Debug\WpfZooManager.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\C# Doings\WpfZooManager\WpfZooManager\obj\Debug\WpfZooManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Documents\C# Doings\WpfZooManager\WpfZooManager\obj\Debug\MainWindow.g.cs
+C:\Users\hp\Documents\C# Doings\WpfZooManager\WpfZooManager\obj\Debug\App.g.cs
+C:\Users\hp\Documents\C# Doings\WpfZooManager\WpfZooManager\obj\Debug\WpfZooManager_MarkupCompile.cache
+C:\Users\hp\Documents\C# Doings\WpfZooManager\WpfZooManager\obj\Debug\WpfZooManager_MarkupCompile.lref
+C:\Users\hp\Documents\C# Doings\WpfZooManager\WpfZooManager\obj\Debug\MainWindow.baml
+C:\Users\hp\Documents\C# Doings\WpfZooManager\WpfZooManager\obj\Debug\WpfZooManager.g.resources
+C:\Users\hp\Documents\C# Doings\WpfZooManager\WpfZooManager\obj\Debug\WpfZooManager.Properties.Resources.resources
+C:\Users\hp\Documents\C# Doings\WpfZooManager\WpfZooManager\obj\Debug\WpfZooManager.csproj.GenerateResource.cache
+C:\Users\hp\Documents\C# Doings\WpfZooManager\WpfZooManager\obj\Debug\WpfZooManager.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\C# Doings\WpfZooManager\WpfZooManager\obj\Debug\WpfZooManager.exe
+C:\Users\hp\Documents\C# Doings\WpfZooManager\WpfZooManager\obj\Debug\WpfZooManager.pdb
